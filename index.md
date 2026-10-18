@@ -9,7 +9,7 @@ Bienvenido al índice de las prácticas del módulo de Big Data Aplicado del cur
 
 ## Repositorio en GitHub
 
-[Consultar el repositorio en GitHub](URL_DEL_REPOSITORIO_GITHUB)
+[Consultar el repositorio en GitHub](https://github.com/juanjferote/bda_2026_jjfo)
 
 ---
 
